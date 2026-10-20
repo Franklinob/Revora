@@ -1,0 +1,21 @@
+ID,Data,Hora,Máquina,Turno,Categoria,Descrição da falha,Tempo de parada (min),Operador,Criticidade,Status
+RF-1001,2026-09-01,06:20,CNC-04,1º turno,Mecânica,Vibração elevada no spindle,90,Operador A,Alta,Em análise
+RF-1002,2026-09-01,08:45,CNC-02,1º turno,Elétrica,Falha no sensor de posição,35,Operador B,Média,Encerrada
+RF-1003,2026-09-02,14:35,CNC-04,2º turno,Mecânica,Desgaste no conjunto de fixação,120,Operador C,Alta,Ação pendente
+RF-1004,2026-09-03,10:10,CNC-01,1º turno,Erro operacional,Parâmetro de ferramenta incorreto,20,Operador D,Baixa,Encerrada
+RF-1005,2026-09-04,18:15,CNC-03,2º turno,Hidráulica,Vazamento no circuito hidráulico,75,Operador A,Média,Em análise
+RF-1006,2026-09-05,21:40,CNC-06,2º turno,Pneumática,Pressão pneumática insuficiente,45,Operador E,Média,Encerrada
+RF-1007,2026-09-06,23:10,CNC-02,3º turno,Automação,Falha de comunicação do comando,60,Operador B,Média,Ação pendente
+RF-1008,2026-09-07,07:25,CNC-04,1º turno,Mecânica,Ruído anormal no rolamento,150,Operador C,Alta,Em análise
+RF-1009,2026-09-08,15:45,CNC-05,2º turno,Elétrica,Alarme de sobrecorrente,40,Operador D,Média,Encerrada
+RF-1010,2026-09-09,11:15,TORNO-01,1º turno,Outras,Causa ainda não identificada,15,Operador E,Baixa,Em análise
+RF-1011,2026-09-10,17:05,CNC-07,2º turno,Erro operacional,Setup fora da sequência padrão,30,Operador F,Média,Encerrada
+RF-1012,2026-09-11,09:40,CNC-01,1º turno,Elétrica,Conector elétrico com mau contato,25,Operador A,Baixa,Encerrada
+RF-1013,2026-09-12,19:20,CNC-04,2º turno,Mecânica,Folga no eixo de avanço,180,Operador B,Alta,Ação pendente
+RF-1014,2026-09-13,14:10,CNC-03,2º turno,Hidráulica,Pressão hidráulica abaixo do padrão,60,Operador C,Média,Em análise
+RF-1015,2026-09-14,06:20,CNC-02,1º turno,Automação,Alarme de PLC,45,Operador D,Média,Encerrada
+RF-1016,2026-09-15,23:10,CNC-06,3º turno,Pneumática,Vazamento em mangueira de ar,30,Operador E,Média,Encerrada
+RF-1017,2026-09-16,08:45,CNC-04,1º turno,Mecânica,Falha no sistema de lubrificação,75,Operador F,Média,Em análise
+RF-1018,2026-09-17,16:50,CNC-05,2º turno,Elétrica,Disjuntor desarmado,20,Operador A,Baixa,Encerrada
+RF-1019,2026-09-18,10:10,CNC-07,1º turno,Erro operacional,Ferramenta incorreta selecionada,15,Operador B,Baixa,Encerrada
+RF-1020,2026-09-19,21:35,TORNO-01,2º turno,Automação,Leitura inconsistente de encoder,90,Operador C,Alta,Ação pendente
